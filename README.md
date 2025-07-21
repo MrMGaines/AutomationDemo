@@ -39,7 +39,7 @@ locked_out_user,secret_sauce
 problem_user,secret_sauce
 
 How to run the test
-1. Clone this repository ()
+1. Clone this repository (https://github.com/MrMGaines/AutomationDemo.git)
 2. Navigate into the folder: cd DataDrivenTestingUsingCSVFilePortfolio.py
 3. Install Selenium
 4. Ensure Firefox is installed and in your system path
